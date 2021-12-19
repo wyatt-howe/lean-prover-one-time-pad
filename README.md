@@ -1,6 +1,6 @@
 # Perfect secrecy of the one-time pad formalized and proven in Lean
 
-Final Project for [Brown CS 1951x: Formal Proof and Verification, 2021](https://github.com/BrownCS1951x/fpv2021/tree/main/src)
+Final Project for [Brown CS 1951x: Formal Proof and Verification, 2021](https://github.com/BrownCS1951x/fpv2021/)
 
 ## Using this repository
 
