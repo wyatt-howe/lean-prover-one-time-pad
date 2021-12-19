@@ -1,6 +1,7 @@
 import data.real.cardinality
 
-/-! # Final Project
+/-! # CSCI 1951-X Final Project
+    # Wyatt Howe
 
 Proving basic properties of crypto schemes. -/
 
