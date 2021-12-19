@@ -23,6 +23,6 @@ To set up this project, run:
 
 ```bash
 leanproject get git@github.com:wyatt-howe/lean-prover-one-time-pad.git
-cd fpv2021
+cd lean-prover-one-time-pad
 lean --make src/final_project.lean
 ```
